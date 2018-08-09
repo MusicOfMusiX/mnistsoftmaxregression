@@ -465,6 +465,10 @@
     <None Include="Eigen\SuperLUSupport" />
     <None Include="Eigen\SVD" />
     <None Include="Eigen\UmfPackSupport" />
+    <None Include="MNIST\EXAMPLES.bin" />
+    <None Include="MNIST\LABELS.bin" />
+    <None Include="MNIST\TESTING_EXAMPLES.bin" />
+    <None Include="MNIST\TESTING_LABELS.bin" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Eigen\CMakeLists.txt" />

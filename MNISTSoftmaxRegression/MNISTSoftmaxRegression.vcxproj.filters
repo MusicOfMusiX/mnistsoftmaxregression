@@ -876,6 +876,18 @@
     <None Include="Eigen\SuperLUSupport" />
     <None Include="Eigen\SVD" />
     <None Include="Eigen\UmfPackSupport" />
+    <None Include="MNIST\EXAMPLES.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="MNIST\LABELS.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="MNIST\TESTING_EXAMPLES.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="MNIST\TESTING_LABELS.bin">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Eigen\CMakeLists.txt" />
