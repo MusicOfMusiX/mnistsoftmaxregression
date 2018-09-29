@@ -1,5 +1,5 @@
 # Introduction
-Part of my ML learning adventure!.
+Part of my ML learning adventure!. Trains on the MNIST handwriting database and (somewhat) manages to be successful after lots of iterations!
 
 Does NOT involve MLPs GAs and all of those complex stuff; just a pure, 1-layer gradient descent-optimised regression model.
 
