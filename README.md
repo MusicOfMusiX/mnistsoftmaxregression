@@ -5,6 +5,10 @@ Does NOT involve MLPs GAs and all of those complex stuff; just a pure, 1-layer g
 
 Eigen was used for matrix/vector templates and arithmetic. Included in project.
 
+Expected accuracy on test data is around 86% @ 4000 epochs, learning rate=0.005.
+
+Experiment with hyperparameters!
+
 # NOTE
 The actual development does not happen on this GitHub repository, but on Microsoft Azure DevOps. This exists solely for public sharing purposes.
 
